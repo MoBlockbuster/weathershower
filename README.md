@@ -1,11 +1,11 @@
 # weathershower
-A little tool to show the weather in your citiy. It is a nice greeting if you open your shell
+A little tool to show the current weather in your citiy. It is a nice greeting if you open your shell
 
 ## Usage:
 
 Download this repo and paste the following line in your **~/.bashrc**
 
-- $path_to_weathershower.sh $city
+- $path\_to\_weathershower.sh $city
 
 and save it.
 
