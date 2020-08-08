@@ -3,15 +3,9 @@ A little tool to show the current weather in your citiy. It is a nice greeting i
 
 ## Usage:
 
-Download this repo and paste the following line in your **~/.bashrc**
+- You can start me as normal script
 
-- $path\_to\_weathershower.sh $city
-
-and save it.
-
-**Example:**
-
-- weathershower.sh berlin
+- You can start me with parameter **-g** and you will get the current weather of city of your choice 
 
 If you close your shell and open it again, you will see the weather of $CITY
 
