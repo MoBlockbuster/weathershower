@@ -15,4 +15,4 @@ then
 	read -p "For which citiy do you want an overview?: " CITY
 fi
 
-curl -4 http://wttr.in/"${CITY}"
+curl -4 https://wttr.in/"${CITY}"
