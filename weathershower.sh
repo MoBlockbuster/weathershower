@@ -4,6 +4,15 @@
 #######################################
 # Script to show you the weather of your city
 
+VERSION="2020093001"
+
+# Show version of tool
+if [ "$1" == "-v" ]
+then
+	echo -e "\e[1;33mVersion: \e[1;31m$VERSION\e[0m"
+	exit 0
+fi
+
 if [ "$1" == "-g" ]
 then
 	read -p "For which city do you want an overview as bash greeting?: " CITY
