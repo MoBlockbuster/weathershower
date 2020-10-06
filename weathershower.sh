@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 #######################################
-# Author on GitHub: MoBlockbuster
+# Author on GitHub: MoBlockbuster     #
 #######################################
 # Script to show you the weather of your city
 
-VERSION="2020093001"
+VERSION="2020100601"
 
 # Show version of tool
 if [ "$1" == "-v" ]
